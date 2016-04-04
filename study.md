@@ -14,7 +14,7 @@ please do the following and be prepared to share and discuss on Monday morning.
 Submit detailed answers to these in this file via a pull request.
 
 -   A wireframe of what your game project will look like.
-  Wire frame is sketched in my notebook
+  Wire frame is sketched in my notebook.
 
 -   The data structure you plan to use.
   If I am understanding this question I think an array is the data structure that will be used for the basic game logic.
@@ -37,7 +37,7 @@ Submit detailed answers to these in this file via a pull request.
   User story 8- As a user, I should be able to see my results with the numner of games played and outcomes on the single page.
   User story 9- As a user, I should be able to store a game to retrive later.
   User story 10- As a user, I should be able to change my password when needed.
-   
+
 
 -   How you plan to keep your code moodular.
  I will use the examples we have completed in class.  Using seperate files in atom to store the javascript functions, ajax request, event handelers, game logic script, etc.  Using the require function and module exports.
